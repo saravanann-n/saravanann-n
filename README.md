@@ -38,8 +38,8 @@ Welcome to my GitHub! I'm an ECE student passionate about electronics, embedded 
 <a href="https://icons8.com/icons/styles" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/></a>
  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsaro132&show_icons=true&locale=en" alt="mrsaro132"bg_color=000000 color=ffffff line=00cc44 point=ffffff area=true hide_border=true /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanann-n&show_icons=true&locale=en" alt="SaravananN"bg_color=000000 color=ffffff line=00cc44 point=ffffff area=true hide_border=true /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsaro132&" alt="mrsaro132" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saravanann-n&" alt="SaravananN" /></p>
 
-[![Saravanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrSaro132&bg_color=000000&color=ffffff&line=00cc44&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saravanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saravanann-n&bg_color=000000&color=ffffff&line=00cc44&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
