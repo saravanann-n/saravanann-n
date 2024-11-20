@@ -6,13 +6,14 @@ Welcome to my GitHub! I'm an ECE student passionate about electronics, embedded 
 
 <p align="left"> <a href="https://twitter.com/mr_saro_132" target="blank"><img src="https://img.shields.io/twitter/follow/mr_saro_132?logo=twitter&style=for-the-badge" alt="mr_saro_132" /></a> </p>
 
-- 📫 Contact me </br>**Email : nsaravanan146@gmail.com**
+- 📫 Contact me </br>**Email : nsaravanan146@gmail.com**</br> **Phone : +91 8056939332**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/mr_saro_132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_saro_132" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saravanann132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanann132" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_saro_132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_saro_132" height="30" width="40" /></a>
+<a href="Wa.me/+918056939332" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
